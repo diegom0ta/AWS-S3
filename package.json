@@ -1,0 +1,13 @@
+{
+  "name": "aws-bucket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "diegom0ta <motadiego98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.790.0"
+  },
+  "scripts": {
+		"start": "node src/index.js"
+	}
+}
